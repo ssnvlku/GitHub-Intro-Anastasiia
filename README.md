@@ -1,6 +1,6 @@
 
 ## Quick references
-👱🏼‍♀️ [Author](#author) | 📃 [Description](#description) | 🎓 [My favourite university subjects](#my-favourite-university-subjects) | 💻 [Online vs Offline studying](#online-vs-offline-studying) | 🧮 [My favourite math formulas](#my-favourite-math-formulas) | 👩‍💻 [My coding skills](#my-coding-skills) | 🖼️ [The image I like](#the-image-i-like)
+👱🏼‍♀️ [Author](###author) | 📃 [Description](###description) | 🎓 [My favourite university subjects](###my-favourite-university-subjects) | 💻 [Online vs Offline studying](###online-vs-offline-studying) | 🧮 [My favourite math formulas](###my-favourite-math-formulas) | 👩‍💻 [My coding skills](###my-coding-skills) | 🖼️ [The image I like](###the-image-i-like)
 
 
 ### 👱🏼‍♀️ Autor 
@@ -25,17 +25,11 @@ Here is what I thing about each of the studying options:
 
 ### 🧮  My favourite math formulas
 Here are some of my favourite math formulas: 
-$$
-a^2=b^2+c^2
-$$
+$$a^2=b^2+c^2$$
 , - this is the Pythagorean teorem;
-$$
-ax^2+bx+c=0
-$$
+$$ax^2+bx+c=0$$
 , - this is the quadratic formula
-$$
-H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}
-$$
+$$H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}$$
 , - this is the hamonic mean
 
 ### 👩‍💻 My coding skills
