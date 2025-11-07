@@ -1,6 +1,6 @@
 
 ## Quick references
-👱🏼‍♀️ [Author](###👱🏼‍♀️Author) | 📃 [Description](###📃Description) | 🎓 [My favourite university subjects](###🎓My-favourite-university-subjects) | 💻 [Online vs Offline studying](###💻Online-vs-offline-studying) | 🧮 [My favourite math formulas](###🧮My-favourite-math-formulas) | 👩‍💻 [My coding skills](###👩‍💻My-coding-skills) | 🖼️ [The image I like](###🖼️The-image-I-like)
+👱🏼‍♀️ [Author](#👱🏼‍♀️author) | 📃 [Description](#📃description) | 🎓 [My favourite university subjects](#🎓my-favourite-university-subjects) | 💻 [Online vs Offline studying](#💻online-vs-offline-studying) | 🧮 [My favourite math formulas](#🧮my-favourite-math-formulas) | 👩‍💻 [My coding skills](#👩‍💻my-coding-skills) | 🖼️ [The image I like](#🖼️the-image-i-like)
 
 
 ### 👱🏼‍♀️ Autor 
