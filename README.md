@@ -52,5 +52,4 @@ Use this [web-compiler](https://cpp.sh) to check the code out. In this example, 
 ### The image I like 
 Here is the image I personally like: it represents a place where I have been to once and which still makes me feel better. 
 
-_DSC3194.JPG
-
+_DSC3194![_DSC3077](https://github.com/user-attachments/assets/90f9b3ab-ba5e-4031-a2f4-d2f1318cbae7)
