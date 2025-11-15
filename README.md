@@ -1,6 +1,6 @@
 
 ## Quick references
-👱🏼‍♀️ [Author](#-author) | 📃 [Description](#-description) | 🎓 [My favourite university subjects](#-my-favourite-university-subjects) | 💻 [Online vs Offline studying](#-online-vs-offline-studying) | 🧮 [My favourite math formulas](#-my-favourite-math-formulas) | 👩‍💻 [My coding skills](#-my-coding-skills) | 🖼️ [The image I like](#-the-image-i-like)
+👱🏼‍♀️ [Author](#-author) | 📃 [Description](#-description) | 🎓 [My favourite university subjects](#-my-favourite-university-subjects) | 💻 [Online vs Offline studying](#-online-vs-offline-studying) | [My favourite math formulas](#my-favourite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
 
 ### 👱🏼‍♀️ Autor 
@@ -23,7 +23,7 @@ Here is what I thing about each of the studying options:
 |--------|--------|
 |You can sleep more; stydy anytime and anywhwre | Easier to focus without distractions
 
-### 🧮  My favourite math formulas
+### 🧮 My favourite math formulas
 Here are some of my favourite math formulas: 
 
 $$a^2=b^2+c^2$$
@@ -38,7 +38,7 @@ $$H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}$$
 
 , - this is the hamonic mean
 
-### 👩‍💻 My coding skills
+### My coding skills
 I am skilled enought to do some coding - here is one of the examples:
 ```C++
 #include <iostream>
@@ -51,7 +51,7 @@ int main () {
 ```
 Use this [web-compiler](https://cpp.sh) to check the code out. In this example, the `main()` function prints "Hello, GitHub" messege. 
 
-### 🖼️ The image I like 
+### The image I like 
 Here is the image I personally like: it represents a place where I have been to once and which still makes me feel better. 
 
 ![_DSC3194](https://github.com/user-attachments/assets/0d2239ee-ee08-42de-b6e0-3a7ce8456922)
