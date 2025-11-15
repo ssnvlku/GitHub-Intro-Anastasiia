@@ -30,13 +30,21 @@ $$a^2=b^2+c^2$$
 
 , - this is the Pythagorean teorem;
 
-$$ax^2+bx+c=0$$
+$$A = \pi r^2$$
 
-, - this is the quadratic formula
+, - this is area of the circle;
+
+$$x = \frac{-b \pm \sqrt{\Delta}}{2a}$$
+
+, - these are the roots of the quadratic equation;
+
+$$S_n = \sum_{i=1}^{n} a_i$$
+
+, - this is sum of the first "n" elements of the sequence;
 
 $$H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}$$
 
-, - this is the hamonic mean
+, - this is the hamonic mean.
 
 ### My coding skills
 I am skilled enought to do some coding - here is one of the examples:
