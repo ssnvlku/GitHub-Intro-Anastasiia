@@ -23,7 +23,7 @@ Here is what I thing about each of the studying options:
 |--------|--------|
 |You can sleep more; stydy anytime and anywhwre | Easier to focus without distractions
 
-### 🧮 My favourite math formulas
+### My favourite math formulas
 Here are some of my favourite math formulas: 
 
 $$a^2=b^2+c^2$$
