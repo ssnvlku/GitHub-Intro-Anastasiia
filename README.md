@@ -46,7 +46,7 @@ $$H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}$$
 
 , - this is the hamonic mean;
 
-$$y= \alpha x^2 + \beta x + \gama§§
+$$y = \alpha x^2 + \beta x + \gamma§§
 
 , - this is the parabolic function  formula.
 
