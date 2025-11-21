@@ -3,7 +3,7 @@
 👱🏼‍♀️ [Author](#-author) | 📃 [Description](#-description) | 🎓 [My favourite university subjects](#-my-favourite-university-subjects) | 💻 [Online vs Offline studying](#-online-vs-offline-studying) | [My favourite math formulas](#my-favourite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
 
-### 👱🏼‍♀️ Autor 
+### 👱🏼‍♀️ Author 
 - **Name:** *Anastasiia Davydiuk*
 - **Group:** *KH-125дсг* 
 - **Date:** *03.11.2025* 
@@ -45,6 +45,8 @@ $$S_n = \sum_{i=1}^{n} a_i$$
 $$H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}$$
 
 , - this is the hamonic mean.
+
+§§y=alphax^2+betax+gama§§
 
 ### My coding skills
 I am skilled enought to do some coding - here is one of the examples:
