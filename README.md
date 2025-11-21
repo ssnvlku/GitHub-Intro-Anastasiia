@@ -46,7 +46,7 @@ $$H=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots + \frac{1}{x_n}}$$
 
 , - this is the hamonic mean.
 
-§§y=alphax^2+betax+gama§§
+$$y=alphax^2+betax+gama§§
 
 ### My coding skills
 I am skilled enought to do some coding - here is one of the examples:
